@@ -4,7 +4,7 @@
 De La Salle-College of Saint Benilde
  Bachelor of Science in Information Systems with Specialization in Cybersecurity
  
-### Tools
+### Technical Skills
 - Basic Programming Language (PHP, Java, Python, and C#)
 - Software Testing (Basic Selenium IDE & Jira)
 - Cybersecurity Tools (Wireshark & Autopsy)
